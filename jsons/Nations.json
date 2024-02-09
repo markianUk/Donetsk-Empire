@@ -1,31 +1,31 @@
 [
 	{
 		"name": "Donetsk empire",
-                "leaderName": "Donetsk Empire",
+                "leaderName": "Palrament",
 		"adjective": ["Child of Donbass"],
 		"startBias": ["Mountains"],
 		"preferredVictoryType": "Scientific",
 
-		"startIntroPart1": "Вітаю Вас!",
-		"startIntroPart2": "Ми діти шахт хочемо відновити Україну"
+		"startIntroPart1": "Congratulations!",
+		"startIntroPart2": "We are children of miners who want to rebuild Ukraine."
 
-		"declaringWar": "Нікчемо ти не вартий війни зі мною!"
-		"attacked": "Хочеш пограти? Потім не проси змилуватись!",
-		"defeated": "Як що коли?"
-		"introduction": "до моду входить Імперія Доецька, яка через події 2014 році від'єдналась і почала самостійне існування, але попри мОСКОВСЬКІЙ вплив люди посуті були рабам, а у 24.02.2022 мОСКОВЯ напала на напала на незалежну Україну та її окупувала, а реакція світу на це була млява, і через це люди у Донбасі починають самостійно укранізовуватися, та боротись від ярма москви, (Примітка розробник ніколи не був у Донецьій області тому не сваріть ну будь ласка."
+		"declaringWar": "You are not worthy of war with me!"
+		"attacked": "Do you want to play? Then don't ask for mercy!",
+		"defeated": "What if?"
+		"introduction": "The Doetzian Empire came into fashion, which, due to the events of 2014, separated and began to exist independently, but despite Moscow's influence, people were essentially slaves, and on February 24, 2022, Moscow attacked and occupied independent Ukraine, and the world's reaction to this was sluggish, and because of this, people in Donbass begin to organize themselves and fight against the yoke of Moscow, (Note: the developer has never been to the Donetsk region, so please do not scold."
 
-		"neutralHello": "маєш талчонку?"
-		"neutralLetsHearIt": ["Ми вас слухаєм", "Так прошу"]
-		"neutralNo": ["ВИ що дурний? Я не буду цього робити!", "ага вже"]
-		"neutralYes": [ "так почекай друже!", "Гаразд!", "що ж згода"]
+		"neutralHello": "Do you have a skill? "
+		"neutralLetsHearIt": ["We are listening to you", "Yes, please"]
+		"neutralNo": ["Are you stupid? I'm not going to do it!", "Yeah, right"]
+		"neutralYes": [ "So wait, buddy!", "Okay!", "Okay, fine"]
 
-		"hateHello": ["Фу ти!", "чого тобі?"]
-		"hateLetsHearIt": ["Говори!", "Що ти скажеш?", "Далі"]
-		"hateNo": ["ахахах, насмішив! Ні!", "а, що?"]
-		"hateYes": ["Добре", "Хм це не погано!", "Що ж не погано!" ]
+		"hateHello": ["Ew!", "What do you want?"]
+		"hateLetsHearIt": ["Speak!", "What do you say? ", "Next."]
+		"hateNo": [ "Ahahaha, you made me laugh!", "No! Oh, what?"]
+		"hateYes": ["Good", "Hmm, that's not bad!", "That's not bad!" ]
 		
-		"afterPeace": "Ахаха, добряче ми погрались!"
-		"tradeRequest": "не хочете торгувати?"
+		"afterPeace": "We had a lot of fun!"
+		"tradeRequest": "or do you want to trade?"
 		
 		"outerColor": [9, 13, 10]
                 "innerColor": [116, 128, 119]
