@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Donbas Mine",
+		"replaces": "Mine",
+		"uniqueTo": "Donetsk empire",
+		"terrainsCanBeBuiltOn": ["Hill", "Flatland"],
+		"turnsToBuild": 4,
+		"uniques": [
+			"[+2 Production] [in this city]",
+			"[+1 Gold] [in this city]",
+			"Quantity of strategic resources produced by the empire increased by [50]%"
+		],
+		"requiredTech": "Mining",
+		"quote": "The earth gives us its strength."
+	}
+]
