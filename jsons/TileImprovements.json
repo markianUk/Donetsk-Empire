@@ -3,13 +3,10 @@
 		"name": "Donbas Mine",
 		"replaces": "Mine",
 		"uniqueTo": "Donetsk empire",
-		"terrainsCanBeBuiltOn": ["Hill", "Grassland", "Plains", "Desert", "Tundra"],
-		"turnsToBuild": 4,
+		"turnsToBuild": 3,
 		"uniques": [
 			"[+2 Production]",
-			"[+1 Gold]",
-			"[+100]% [Coal] resource production",
-			"[+100]% [Iron] resource production"
+			"[+1 Gold]"
 		],
 		"quote": "The earth gives us its strength."
 	}
