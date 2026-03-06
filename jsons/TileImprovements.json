@@ -1,19 +1,16 @@
 [
-  {
-    "name": "Donbas Mine",
-    "replaces": "Mine",
-    "uniqueTo": "Donetsk empire",
-    "terrainsCanBeBuiltOn": [
-      "Hill",
-      "Flatland"
-    ],
-    "turnsToBuild": 4,
-    "uniques": [
-      "[+2 Production]",
-      "[+1 Gold]",
-      "Quantity of strategic resources produced by the empire increased by [50]%"
-    ],
-    "requiredTech": "Mining",
-    "quote": "The earth gives us its strength."
-  }
+	{
+		"name": "Donbas Mine",
+		"replaces": "Mine",
+		"uniqueTo": "Donetsk empire",
+		"terrainsCanBeBuiltOn": ["Hill", "Grassland", "Plains", "Desert", "Tundra"],
+		"turnsToBuild": 4,
+		"uniques": [
+			"[+2 Production]",
+			"[+1 Gold]",
+			"Quantity of strategic resources produced by the empire increased by [50]%"
+		],
+		"requiredTech": "Mining",
+		"quote": "The earth gives us its strength."
+	}
 ]
