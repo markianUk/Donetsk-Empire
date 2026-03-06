@@ -3,12 +3,13 @@
 		"name": "Donbas Miner",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 70,
+		"cost": 80,
 		"requiredTech": "Mining",
 		"replaces": "Worker",
 		"uniqueTo": "Donetsk empire",
 		"uniques": [
-			"[+1] build charges"
+			"[+1] build charges",
+			"Can build [Land] improvements on tiles"
 		]
 	}
 ]
