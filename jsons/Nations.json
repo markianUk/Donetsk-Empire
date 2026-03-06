@@ -22,7 +22,9 @@
 			"[+2 Production] [in all cities]",
 			"[1] free [Donbas Miner] units appear",
 			"[+100]% [Coal] resource production",
-			"[+100]% [Iron] resource production"
+			"[+100]% [Iron] resource production",
+			"[+1 Production] from [Mine] tiles [in all cities]",
+			"[+1 Gold] from [Mine] tiles [in all cities]"
 		],
 		"cities": ["Донецьк", "Горлівка", "Краматорськ", "Сніжне", "Волноваха", "Маріуполь", "Бахмут", "Сіверськ", "Вугледар", "Дебальцеве", "Нью-Йорк", "Залізне", "Корсунь", "Шевченко", "Калинове", "Дружба", "Мирноград", "Попів Яр", "Семигір'я", "Українка", "Зелений Яр", "Лісне", "Нікольське", "Обрив"]
 	}
