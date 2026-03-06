@@ -2,13 +2,13 @@
 	{
 		"name": "Donbas Miner",
 		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 80,
+		"movement": 3,
+		"cost": 70,
 		"replaces": "Worker",
 		"uniqueTo": "Donetsk empire",
 		"uniques": [
-			"[+1] additional actions",
-			"Can build [Land] improvements on tiles"
+			"Can build [Land] improvements on tiles",
+			"[-50]% construction time for [All] improvements"
 		]
 	}
 ]
