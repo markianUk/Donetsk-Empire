@@ -20,8 +20,7 @@
 		"uniqueName": "Children of the Mines",
 		"uniques": [
 			"[+2 Production] [in all cities]",
-			"Starts with [1] extra [Donbas Miner] unit",
-			"Starts with [1] extra [Warrior] unit"
+			"[1] free [Donbas Miner] units appear"
 		],
 		"cities": ["Донецьк", "Горлівка", "Краматорськ", "Сніжне", "Волноваха", "Маріуполь", "Бахмут", "Сіверськ", "Вугледар", "Дебальцеве", "Нью-Йорк", "Залізне", "Корсунь", "Шевченко", "Калинове", "Дружба", "Мирноград", "Попів Яр", "Семигір'я", "Українка", "Зелений Яр", "Лісне", "Нікольське", "Обрив"]
 	}
