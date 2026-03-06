@@ -1,15 +1,15 @@
 [
-	{
-		"name": "Donbas Miner",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 70,
-		"hurryCostModifier": 0,
-		"requiredTech": "Mining",
-		"replaces": "Worker",
-		"uniqueTo": "Donetsk empire",
-		"uniques": [
-			"[+1] additional actions per turn"
-		]
-	}
+  {
+    "name": "Donbas Miner",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 70,
+    "hurryCostModifier": 0,
+    "requiredTech": "Mining",
+    "replaces": "Worker",
+    "uniqueTo": "Donetsk empire",
+    "uniques": [
+      "[+1] extra actions"
+    ]
+  }
 ]
