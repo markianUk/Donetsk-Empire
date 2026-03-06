@@ -8,7 +8,8 @@
 		"uniques": [
 			"[+2 Production]",
 			"[+1 Gold]",
-			"Quantity of strategic resources produced by the empire increased by [50]%"
+			"Double quantity of [Coal] produced",
+			"Double quantity of [Iron] produced"
 		],
 		"requiredTech": "Mining",
 		"quote": "The earth gives us its strength."
