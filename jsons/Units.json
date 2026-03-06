@@ -7,7 +7,7 @@
 		"replaces": "Worker",
 		"uniqueTo": "Donetsk empire",
 		"uniques": [
-			"[+1] build charges",
+			"[+1] additional actions",
 			"Can build [Land] improvements on tiles"
 		]
 	}
