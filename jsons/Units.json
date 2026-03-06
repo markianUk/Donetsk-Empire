@@ -4,7 +4,6 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 70,
-		"hurryCostModifier": 0,
 		"requiredTech": "Mining",
 		"replaces": "Worker",
 		"uniqueTo": "Donetsk empire",
