@@ -8,8 +8,8 @@
 		"uniques": [
 			"[+2 Production]",
 			"[+1 Gold]",
-			"Double quantity of [Coal] produced",
-			"Double quantity of [Iron] produced"
+			"[+100]% [Coal] resource production",
+			"[+100]% [Iron] resource production"
 		],
 		"quote": "The earth gives us its strength."
 	}
