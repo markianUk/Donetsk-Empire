@@ -1,0 +1,81 @@
+[
+	{
+		"name": "Donetsk empire",
+		"leaderName": "Palrament",
+		"adjective": [
+			"Child of Donbass"
+		],
+		"startBias": [
+			"Mountains"
+		],
+		"preferredVictoryType": "Scientific",
+		"startIntroPart1": "Congratulations!",
+		"startIntroPart2": "We are children of miners who want to rebuild Ukraine.",
+		"declaringWar": "You are not worthy of war with me!",
+		"attacked": "Do you want to play? Then don't ask for mercy!",
+		"defeated": "What if?",
+		"introduction": "The Doetzian Empire came into fashion, which, due to the events of 2014, separated and began to exist independently, but despite Moscow's influence, people were essentially slaves, and on February 24, 2022, Moscow attacked and occupied independent Ukraine, and the world's reaction to this was sluggish, and because of this, people in Donbass begin to organize themselves and fight against the yoke of Moscow, (Note: the developer has never been to the Donetsk region, so please do not scold.",
+		"neutralHello": "Do you have a skill?",
+		"hateHello": "What do you want?",
+		"afterPeace": "We had a lot of fun!",
+		"tradeRequest": "or do you want to trade?",
+		"outerColor": [
+			9,
+			13,
+			10
+		],
+		"innerColor": [
+			116,
+			128,
+			119
+		],
+		"uniqueName": "Children of the Mines",
+		"uniques": [
+			"[+2 Production] [in all cities]",
+			"[1] free [Donbas Miner] units appear",
+			"[+100]% [Coal] resource production",
+			"[+100]% [Iron] resource production",
+			"[+2 Production] from [Mine] tiles [in all cities]",
+			"[+1 Gold] from [Mine] tiles [in all cities]",
+			"[+20]% Strength <for [Mounted] units>",
+			"[+1] Movement <for [Mounted] units>",
+			"[+30]% Strength <for [Archery] units>",
+			"[+35]% Strength <for [Sword] units>",
+			"[+35]% Strength <for [Gunpowder] units>",
+			"[+1] Movement <for [Sword] units>",
+			"[+1] Movement <for [Gunpowder] units>",
+			"[+25]% Strength <for [Siege] units>",
+			"[+2] Movement <for [Siege] units>",
+			"[+45]% Strength <for [Armored] units>",
+			"[+3] Movement <for [Armored] units>",
+			"[+45]% Strength <for [Fighter] units>",
+			"[+3] Movement <for [Fighter] units>"
+		],
+		"cities": [
+			"Донецьк",
+			"Горлівка",
+			"Краматорськ",
+			"Сніжне",
+			"Волноваха",
+			"Маріуполь",
+			"Бахмут",
+			"Сіверськ",
+			"Вугледар",
+			"Дебальцеве",
+			"Нью-Йорк",
+			"Залізне",
+			"Корсунь",
+			"Шевченко",
+			"Калинове",
+			"Дружба",
+			"Мирноград",
+			"Попів Яр",
+			"Семигір'я",
+			"Українка",
+			"Зелений Яр",
+			"Лісне",
+			"Нікольське",
+			"Обрив"
+		]
+	}
+]
