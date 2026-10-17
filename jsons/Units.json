@@ -1,0 +1,314 @@
+[
+	{
+		"name": "Донецький раб",
+		"unitType": "Civilian",
+		"movement": 3,
+		"cost": 70,
+		"replaces": "Worker",
+		"uniqueTo": "Donetsk empire",
+		"uniques": [
+			"Can build [Land] improvements on tiles",
+			"[-33]% construction time for [All] improvements"
+		]
+	},
+	{
+		"name": "Ополчення",
+		"unitType": "Sword",
+		"movement": 4,
+		"strength": 5,
+		"cost": 15,
+		"replaces": "Warrior",
+		"uniqueTo": "Donetsk empire",
+		"requiredTech": "Bronze Working",
+		"upgradesTo": "Spearman",
+		"uniques": [
+			"Can move after attacking"
+		],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Макіївський човен",
+		"unitType": "WaterCivilian",
+		"movement": 2,
+		"cost": 25,
+		"replaces": "Work Boats",
+		"uniqueTo": "Donetsk empire",
+		"requiredTech": "Sailing",
+		"uniques": [
+			"Can build [Water] improvements on tiles",
+			"Cannot enter ocean tiles",
+			"Withdraws before melee combat"
+		]
+	},
+	{
+		"name": "Donetsk Swordsman",
+		"replaces": "Swordsman",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 10,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Archer",
+		"replaces": "Archer",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 4,
+		"rangedStrength": 14,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Tank",
+		"replaces": "Tank",
+		"unitType": "Armored",
+		"movement": 4,
+		"strength": 50,
+		"cost": 375,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "tankshot",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Trebuchet",
+		"replaces": "Trebuchet",
+		"unitType": "Siege",
+		"movement": 3,
+		"strength": 14,
+		"rangedStrength": 19,
+		"range": 4,
+		"cost": 100,
+		"hurryCostModifier": 500,
+		"requiredTech": "Physics",
+		"obsoleteTech": "Chemistry",
+		"upgradesTo": "Cannon",
+		"uniques": [
+			"[+250]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"Must set up to ranged attack",
+			"[-1] Sight",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "throw",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Longswordsman",
+		"replaces": "Longswordsman",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 24,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Musketman",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 28,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Rifleman",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 39,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Infantry",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 81,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Mechanized Infantry",
+		"replaces": "Mechanized Infantry",
+		"unitType": "Gunpowder",
+		"movement": 4,
+		"strength": 104,
+		"cost": 375,
+		"requiredTech": "Mobile Tactics",
+		"uniques": [
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "tankshot",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Composite Bowman",
+		"replaces": "Composite Bowman",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 8,
+		"rangedStrength": 16,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Crossbowman",
+		"replaces": "Crossbowman",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 15,
+		"rangedStrength": 22,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "crossbow",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Cannon",
+		"replaces": "Cannon",
+		"unitType": "Siege",
+		"movement": 3,
+		"strength": 17,
+		"rangedStrength": 24,
+		"cost": 185,
+		"requiredTech": "Chemistry",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Dynamite",
+		"uniques": [
+			"[+200]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"Must set up to ranged attack",
+			"[-1] Sight",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "cannon",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Artillery",
+		"replaces": "Artillery",
+		"unitType": "Siege",
+		"movement": 3,
+		"strength": 25,
+		"rangedStrength": 34,
+		"range": 3,
+		"cost": 320,
+		"requiredTech": "Dynamite",
+		"upgradesTo": "Rocket Artillery",
+		"uniques": [
+			"[+200]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"Must set up to ranged attack",
+			"[-1] Sight",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": [
+			"Indirect Fire"
+		],
+		"attackSound": "artillery",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Rocket Artillery",
+		"replaces": "Rocket Artillery",
+		"unitType": "Siege",
+		"movement": 3,
+		"strength": 54,
+		"rangedStrength": 72,
+		"range": 3,
+		"cost": 425,
+		"requiredTech": "Rocketry",
+		"requiredResource": "Aluminum",
+		"uniques": [
+			"[+200]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"[-1] Sight",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": [
+			"Indirect Fire"
+		],
+		"attackSound": "artillery",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Donetsk Modern Armor",
+		"replaces": "Modern Armor",
+		"unitType": "Armored",
+		"movement": 6,
+		"strength": 120,
+		"cost": 425,
+		"requiredTech": "Lasers",
+		"requiredResource": "Aluminum",
+		"upgradesTo": "Giant Death Robot",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "tankshot",
+		"uniqueTo": "Donetsk empire"
+	},
+	{
+		"name": "Холодний Яр",
+		"replaces": "Cavalry",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 45,
+		"cost": 200,
+		"uniqueTo": "Donetsk empire",
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combined Arms",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Rough terrain penalty",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "horse"
+	}
+]
