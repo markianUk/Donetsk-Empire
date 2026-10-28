@@ -2,13 +2,13 @@
 	{
 		"name": "Донецький раб",
 		"unitType": "Civilian",
-		"movement": 3,
+		"movement": 6,
 		"cost": 70,
 		"replaces": "Worker",
 		"uniqueTo": "Donetsk empire",
 		"uniques": [
 			"Can build [Land] improvements on tiles",
-			"[-33]% construction time for [All] improvements"
+			"[-60]% construction time for [All] improvements"
 		]
 	},
 	{

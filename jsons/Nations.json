@@ -39,11 +39,12 @@
 			"[2] free [Донецький раб] units appear",
 			"[1] free [Settler] units appear",
 			"Gain enough Faith for a Pantheon",
-			"[+15]% Strength <when defending>",
+			"[+30]% Strength <when defending>",
 			"[-10]% growth [in all cities]",
 			"[-20]% growth [in all cities] <starting from the [Medieval era]>",
 			"[-30]% growth [in all cities] <starting from the [Renaissance era]>",
-			"[Gold] cost of purchasing [All] units [-20]%"
+			"[Gold] cost of purchasing [All] units [-20]%",
+			"[+10]% Strength <when attacking>"
 		],
 		"cities": [
 			"Донецьк",
@@ -118,7 +119,7 @@
 			"[+1 Production] from [Forest] tiles [in all cities]",
 			"[+1 Culture] from [Forest] tiles [in all cities]",
 			"[+1 Production] from [Jungle] tiles [in all cities]",
-			"[+15]% Strength <when defending>"
+			"[+20]% Strength <when defending>"
 		]
 	},
 	{
